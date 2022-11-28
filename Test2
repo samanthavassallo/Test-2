@@ -1,0 +1,80 @@
+# Sam Vassallo
+
+#1
+"""
+def readFile(race.csv):
+    Firstname = ["Alice", "Bob","Carl", "Donna", "Edna"]
+    Lastname = ["Adam", "Biggs", "Carlson", "Enderson"]
+    Racetime = ["14", "18", "11", "9", "13"]
+    Best = ["13","12","14","9","20"]
+    for line in data:
+        feilds = line.split(",")
+        Firstname.appends(feilds[0])
+        Lastname.appends(feilds.[0])
+        Racetime.appedns(int(feilds[1])
+        best.appends(int(feilds[2])
+
+    return Firstname, Lastname, Racetime, Best
+print(readFile)
+
+def winner(Firstname, Lastname, Racetime):
+    FastBest = Best[0]
+    Fastfn = Firstname[0]
+    Fastln = Lastname[0]
+
+    for index, Firstname enumerate(Firstname):
+        fastest = Racetime[index]
+        if fastest >
+"""
+
+
+#2
+"""
+letters = input("waht letter are you going to input:")
+
+def isVowel():
+    vowels = {"a","e","i","o","u"}
+    vowelSometimes = {"y"}
+
+    if letters not in vowels:
+        if letters not in vowelSometimes:
+                print("This is not a vowel")
+    else:
+            print("This is a vowel")
+isVowel()
+            
+            
+mostVowels(["grader", "happy feet", "dog"])
+def mostVowels(words):
+    isVowel(mostVowels)
+
+"""
+
+
+
+#6\
+"""
+date = input("what date do you want to convert (Please use mm/dd/yyyy)")
+
+def japan(date):
+    datechagemonth = date[0:2]
+    datechangeday = date[3:5]
+    for daatechangemonth in datechangeday:
+        newdatemonth = date[0:2]
+        newdateday = date[3:5]
+        print(newdateday,"/",newdatemonth,"/",date[6:10])
+japan(date)
+  """  
+import math   
+num = int([351])
+
+def digitProduct(num):
+    for num in range(num):
+        answer = num[0:1] * num[1:2] * num[2:3]
+        print(answer)
+digitProduct(num)
+                
+            
+    
+                
+                         
